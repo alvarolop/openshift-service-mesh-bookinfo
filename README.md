@@ -2,7 +2,9 @@
 This repository is a proof-of-concept (POC) using Red Hat OpenShift Service Mesh. The purpose of the POC is to determine the feasibility of using OpenShift Service Mesh to connect, control, and secure the various services that comprise the bookinfo application
 
 
-## Basic Usage
+## Option 1: Basic Usage
+
+Just follow these two steps to obtain a full installation.
 
 ### 1. Access the cluster
 
@@ -22,7 +24,9 @@ chmod 755 0-automated-install.sh
 ```
 
 
-## Step-by-step usage
+## Option 2: Step-by-step usage
+
+If you prefer a custom installation, follow these steps.
 
 ### 1. Access the cluster
 
